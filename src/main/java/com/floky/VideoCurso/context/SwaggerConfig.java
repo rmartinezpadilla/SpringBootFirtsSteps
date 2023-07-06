@@ -34,6 +34,7 @@ public class SwaggerConfig {
                 "Terms of service",
                 new Contact("SACAViX Tech", "www.example.com", "myeaddress@company.com"),
                 "License of API", "API license URL", Collections.emptyList());
+        //esto es un documento ya copiado
     }
 
     }
